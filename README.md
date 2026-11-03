@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;ASP.NET+Core+Developer;C%23+Software+Developer;AI+Technology+Enthusiast;Building+Modern+Digital+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;ASP.NET+Core+Developer;C%23+Software+Developer;AI+Technology+Enthusiast;Building+Modern+Digital+Solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="mailto:syedmuhammadsaim.contact@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/syedmuhammadsaim">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://ngeos.runasp.net">
-    <img src="https://img.shields.io/badge/LIVE_PROJECT-059669?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live_Project-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -46,11 +46,11 @@
 - ASP.NET Core MVC
 - C# Application Development
 - MVC Architecture
-- Model, View & Controller
+- Models, Views & Controllers
 - Entity Framework Core
 - LINQ
 - CRUD Operations
-- REST API Concepts
+- REST API Development Concepts
 - Authentication & Authorization
 - Cookie Authentication
 - Session Management
@@ -74,26 +74,32 @@
 - Interactive Web Interfaces
 - Frontend Integration
 
-## 🗄️ Database Management
+### 04. Database Management
 
-### Microsoft SQL Server
+**Microsoft SQL Server & SSMS**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-4F46E5?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
-- Database Design & Management
-- SQL Queries & Joins
+- Database Design
+- Database Architecture
+- Database Relationships
+- SQL Queries
+- Joins
 - Stored Procedures
 - Database Backup & Restore
 - Entity Framework Core Migrations
 
-### MySQL
+**MySQL & XAMPP**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 - MySQL Database
@@ -104,11 +110,12 @@
 - Database Design & Relationships
 - SQL Queries
 - Database Backup & Import
+
 ### 05. PHP & Web Technologies
 
 - PHP Development
 - MySQL Integration
-- PDO Concepts
+- PDO
 - XAMPP
 - phpMyAdmin
 - Dynamic Websites
@@ -150,7 +157,7 @@
 - POS Systems
 - SaaS Application Concepts
 - Business Management Systems
-- Accounting Management Systems
+- Accounting Systems
 - NGO Management Systems
 - Student Management Systems
 - Fee Management Systems
@@ -183,8 +190,7 @@
 - Google OAuth 2.0
 - Cookie-Based Authentication
 - Session Authentication
-- Firebase Authentication Concepts
-- Phone OTP Integration
+- Firebase Phone OTP Integration
 - SMTP Email Integration
 - Brevo Email Service
 - API Integration
@@ -219,10 +225,10 @@
 
 <p align="center">
   <a href="https://ngeos.runasp.net">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/syedmuhammadsaim/NGEOS">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -266,29 +272,23 @@
 
 ---
 
-## GITHUB ANALYTICS
+## CONNECT WITH ME
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadsaim&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=7C3AED&text_color=CBD5E1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadsaim&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=CBD5E1" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedmuhammadsaim&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
+  <a href="https://github.com/syedmuhammadsaim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:syedmuhammadsaim.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/INNOVATION-9333EA?style=for-the-badge"/>
+  <b>SOFTWARE DEVELOPMENT • INNOVATION • CONTINUOUS LEARNING</b>
 </p>
 
 <p align="center">
-  <b>Building Technology. Creating Solutions. Growing Every Day.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=120&section=footer" width="100%" />
 </p>
