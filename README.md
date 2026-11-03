@@ -74,25 +74,36 @@
 - Interactive Web Interfaces
 - Frontend Integration
 
-### 04. Database Management
+## 🗄️ Database Management
+
+### Microsoft SQL Server
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
+  <img src="https://skillicons.dev/icons?i=mssql" />
 </p>
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
-- MySQL
-- Database Design
-- Database Architecture
-- Database Relationships
-- SQL Queries
-- Joins
+- Database Design & Management
+- SQL Queries & Joins
 - Stored Procedures
 - Database Backup & Restore
-- Entity Framework Migrations
-- Database Integration
+- Entity Framework Core Migrations
 
+### MySQL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL Database
+- XAMPP Server
+- phpMyAdmin
+- PHP & MySQL Integration
+- PDO
+- Database Design & Relationships
+- SQL Queries
+- Database Backup & Import
 ### 05. PHP & Web Technologies
 
 - PHP Development
